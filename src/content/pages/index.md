@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Dr. Lakshmi Reddy
+title: Dr. R. Lakshmi Reddy
 tagline: Professor | Fashion & Lifestyle Accessory Design Dept., NIFT Hyderabad.
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
