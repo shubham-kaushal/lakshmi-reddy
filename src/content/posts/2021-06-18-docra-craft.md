@@ -1,10 +1,10 @@
 ---
 template: blog-post
 title: Docra Craft
-slug: docra-craft
+slug: /docra-craft
 date: 2021-06-18 22:12
 description: Docra Craft
-featuredImage: https://i0.wp.com/engrave.in/blog/wp-content/uploads/2016/12/dokra-cover.jpg?fit=1024%2C678&ssl=1
+featuredImage: /assets/dokra-cover.jpeg
 ---
 Dokra is a form of ancient bell metal craft practiced by the Ojha metal smiths living in states like Jharkhand, Chhattisgarh, Odisha, West Bengal and Telangana. However, the style and also the workmanship of this artisan community varies in different states. Dhokra or Dokra, is also known as bell metal craft. It is a tribal metal craft practiced in Jainoor Mandal, Adilabad District of Telangana. The village is located about 59 km from Adilabad district headquarters and nearly 264 km from Hyderabad.
 
