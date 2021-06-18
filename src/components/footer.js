@@ -14,7 +14,7 @@ const Footer = () => (
       <p>
         Copyright © R. Lakshmi Reddy All Rights Reserved. | Powered{" "}
         <span className="BsLightning">
-          <RiHeart2Line />
+          <BsLightning />
         </span>{" "}
         by <Link to="/">Forneu.com</Link>
       </p>
