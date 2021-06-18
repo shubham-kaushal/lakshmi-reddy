@@ -12,11 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Copyright © R. Lakshmi Reddy All Rights Reserved. | Powered{" "}
-        <span className="icon">
-          <BsLightning />
-        </span>{" "}
-        by <Link to="/">Forneu.com</Link>
+        Copyright © R. Lakshmi Reddy All Rights Reserved.
       </p>
     </div>
   </footer>
