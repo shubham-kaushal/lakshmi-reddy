@@ -13,7 +13,7 @@ const Footer = () => (
     <div className="container">
       <p>
         Copyright © R. Lakshmi Reddy All Rights Reserved. | Powered{" "}
-        <span className="BsLightning">
+        <span className="icon">
           <BsLightning />
         </span>{" "}
         by <Link to="/">Forneu.com</Link>
