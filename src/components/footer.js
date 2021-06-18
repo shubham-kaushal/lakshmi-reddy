@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Powered{" "}
+        Copyright © R. Lakshmi Reddy All Rights Reserved. | Powered{" "}
         <span className="BsLightning">
           <RiHeart2Line />
         </span>{" "}
