@@ -1,0 +1,10 @@
+---
+template: blog-post
+title: Influence of Religious Faith and Nature on Docra Craft
+slug: /influence-of-religious-faith-and-nature-on-docra-craft
+date: 2021-07-01 20:38
+description: Influence of Religious Faith and Nature on Docra Craft
+---
+Details made on each figurine is inspired from the religion and the beliefs of the people. The ‘ Greatness of God ‘, the look of eternal peace and forgiveness on their deity's face and the unimaginable beauty and intricate ornamentation of their jewelry and clothing is what the artisan tried to communicate. The existence of a power, higher and above all sins of human life. The stories of myths and legends and the greatness behind each and every story is brought out in the form of different religious figurines. Artisans brought to life, forms of cultural significance  in the shape of an art form requiring high level of patience. The influence of animal and natural life form in the design is also a very significant asset of the craft. Appreciation and respect of all living beings and their religious connection was a major reason. The strength of an elephant,  the structure of a horse , the beautiful repetitive geometric design on a tortoise’s back,  the detail in a peacock’s feather are beautiful concepts which intrigued the Artisan’s mind. There was a lot of attention given to such details and a good study of the anatomy of such animal life forms. 
+
+One can say, the artisans offered everything which was relevant to them at that point in time so much so that they were inspired with everything that was around them. The artisans and craftsmen worked and innovated with forms that possess great importance in the religious and cultural set-up. The role of mother nature is not just limited in the area of raw materials but also form generation. The connection of all living creatures with the surrounding elements and an unsettling urge of pure imaginative and visual creativeness is what Dokra imbibes in all it’s forms.
